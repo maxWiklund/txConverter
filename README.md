@@ -6,10 +6,11 @@ Tool for converting textures to tx files.
 
 
 ## Dependencies
-|      Name        |    URL                                                       |
-|:----------------:|:------------------------------------------------------------:|
-| PySide2 or PyQt5 | [PySide2](https://github.com/pyside/pyside2-setup)           |
-| Qt.py            | [Qt](https://github.com/mottosso/Qt.py)                      |
-| ImageSequence    | [ImageSequence](https://github.com/maxWiklund/ImageSequence) |
+|      Name                                                    |
+|:------------------------------------------------------------:|
+| [PySide2](https://github.com/pyside/pyside2-setup)           |
+| [Qt.py](https://github.com/mottosso/Qt.py)                   |
+| [ImageSequence](https://github.com/maxWiklund/ImageSequence) |
+| [OpenImageIO (maketx)](https://github.com/OpenImageIO/oiio)  |
 
 
